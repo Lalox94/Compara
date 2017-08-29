@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compara</string>
+    <string name="item_1">Distancia</string>
+    <string name="item_2">Precio</string>
+    <string name="item_3">Rating</string>
+    <string name="search">Buscar producto</string>
+</resources>
